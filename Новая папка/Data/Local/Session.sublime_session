@@ -1,0 +1,480 @@
+{
+	"folder_history":
+	[
+		"/C/Users/Public/Documents/10 clASS/files"
+	],
+	"last_version": 3211,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "<!DOCTYPE html>\n<html>\n<head>\n\t<title>\n\t\tСобаки: работа Василия Пупкина\n\t</title>\n</head>\n<body>\n<h1>Собаки</h1>\n\nМой щенок похож немного<br/>\nНа бульдога и на дога,<br/>\nНа собаку-водолаза<br/>\nИ на всех овчарок сразу.<br/>\n©(П. Синявский)<br/>\n\n<p><h2> § 1. Общее описание</h2></p>\n\nСобака - домашнее животное,<br/>\nодно из наиболее популярных (наряду с кошкой) \"животных-компаньонов\".<br/>\nСобаки известны своими способностями к обучению, любовью к игре,<br/>\nсоциальным поведением.<br/>\n\nВыведены специальные породы собак,<br/>\nпредназначенные для различных целей: охоты, собачьих боёв,<br/>\nтяги гужевого транспорта и др., а также просто декоративные<br/>\nпороды (например, болонка, пудель). Собаки часто используются<br/>\nв научных целях, с их участием проводят биологические и<br/>\nбиотехнические исследования и эксперименты.<br/>\n\n<p><h2> § 2. Физические данные</h2></p>\n\nМасса собаки зависит от её телосложения и количества<br/>\nжировых запасов. Максимальный зарегистрированный рост у<br/>\nсобаки - 109 см в холке при весе 111 кг и длине 220<br/>\nсм. Известен случай, когда собака весила 123 кг, а<br/>\nпозже её вес уменьшился до 72 кг.<br/>\n\nПри регулярной тренировке собаки удивительно сильны<br/>\nдля своих размеров - некоторые способны переносить<br/>\nна спине тяжёлую поклажу, таскать за собой сани и<br/>\nдругие большие грузы. Ездовым собакам часто приходится<br/>\nвшестером буксировать нарты массой в одну тонну по<br/>\nнесколько часов подряд, фоксхаунды могут идти по<br/>\nследу 48 ч без передышки.<br/>\n\n<p><h2> § 3. Форма и постановка хвоста</h2></p>\n\nВ результате селекционной работы у собак наблюдается<br/>\nогромное разнообразие форм и постановок хвоста. Например,<br/>\nу некоторых бульдоговидных пород он короткий и скрученный.<br/>\nУ подружейных пород, различают два противоположных<br/>\nварианта его постановки. По клубным стандартам США эти собаки должны<br/>\nохотиться с высоко поднятым хвостом, тогда как правила принятые<br/>\nв Великобритании, требуют, чтобы в рабочем положении хвост был вытянут назад.<br/>\n\n<p><h2> § 4. Органы чувств</h2></p>\n\nУ собак развито цветное зрение, хотя и в меньшей степени, чем у человека.<br/>\nУ собак весь спектр сдвинут в сторону ультрафиолета. Поэтому они, как дальтоники,<br/>\nкрасный и оранжевый цвет не воспринимают адекватно.<br/>\nЗато собаки различают до 40 оттенков серого.<br/>\n\n©Википедия, 2011<br/>\n</body>\n</html>",
+					"file": "/C/Users/Public/Documents/10 clASS/files/dogs.htm",
+					"file_size": 3598,
+					"file_write_time": 132520704900000000,
+					"settings":
+					{
+						"buffer_size": 2387,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Public/Documents/10 clASS/files/Новая папка/lists.htm",
+					"settings":
+					{
+						"buffer_size": 971,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Public/Documents/10 clASS/files/anchors.htm",
+					"settings":
+					{
+						"buffer_size": 1166,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<HTML>\n<title>Примеры оформления текста: работа Василия Пупкина</title>\n<BODY>\n\n\n<p><h1>Сети типа \"клиент-сервер\"</h1></p>\n\n<p>Часто при организации связи между двумя компьютерами за одним компьютером\nзакрепляется роль поставщика ресурсов (программ, данных и т.д.), а за другим\n- роль пользователя этих ресурсов. В этом случае первый компьютер называется\nсервером, а второй - клиентом или рабочей станцией.</p>\n\n<p>Сервер (англ. serve - обслуживать) - это высокопроизводительный компьютер с большим\nобъёмом внешней памяти, который обеспечивает обслуживание других компьютеров\nпутем управления распределением дорогостоящих ресурсов совместного\nпользования (программ, данных и периферийного оборудования).</p>\n\n<p>Клиент (англ. client) - любой компьютер, имеющий доступ к услугам сервера.\nКлиентом также называют прикладную программу, которая от имени пользователя получает\nуслуги сервера. Соответственно, программное обеспечение, которое позволяет\nкомпьютеру предоставлять услуги другому компьютеру, называют сервером - так же,\nкак и сам компьютер.</p>\n\n<p>Математические формулы</p>\n\n<p>Пифагор доказал, что a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>, где a и b - длины двух гипотенуз,\nа c - длина катета прямоугольного треугольника.</p>\n\nРазность кубов чисел может быть представлена в виде a<sup>3</sup> - b<sup>3</sup> = (a - b)(a<sup>2</sup> + ab + b<sup>2</sup>).\n\nХимические формулы\n\nВода получается в результате окисления водорода по\nуравнению\nH2 + 2O2 = 2H20.\n\nТекст программы\n\nprogram qq;\nvar a, b: integer;\nbegin\n  writeln('Введите два числа');\n  read(a,b);\n  writeln(a,'+',b,'=',a+b);\nend;\n\n</BODY>\n</HTML>\n",
+					"file": "/C/Users/Public/Documents/10 clASS/files/text.htm",
+					"file_size": 2663,
+					"file_write_time": 132526776527573461,
+					"settings":
+					{
+						"buffer_size": 1620,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/Public/Documents/10 clASS/files"
+			],
+			"file_history":
+			[
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\Public\\Documents\\10 clASS\\files"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Public/Documents/10 clASS/files/dogs.htm",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2387,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										181,
+										181
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Public/Documents/10 clASS/files/Новая папка/lists.htm",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 971,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										947,
+										947
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 54.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/Public/Documents/10 clASS/files/anchors.htm",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1166,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1085,
+										1085
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 288.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Users/Public/Documents/10 clASS/files/text.htm",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1620,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1240,
+										1240
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,613,75,75,731",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
